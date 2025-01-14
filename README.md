@@ -1,1 +1,3 @@
 # QualcommReview
+
+Bit testing review.
